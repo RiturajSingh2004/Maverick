@@ -1,6 +1,6 @@
 # B2B AI Platform Architecture Overview
 
-## Your Architecture Overview
+## Architecture Overview
 
 ### Data Ingestion Layer
 - **Web Domain Extraction**: Domain crawling and content extraction from websites
